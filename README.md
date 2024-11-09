@@ -81,7 +81,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, please contact [Your Name](mailto:your.email@example.com).
+For any questions or feedback, please contact [Your Name](mailto:adusumilli.j@northeastern.edu?subject=Regarding%20the%20Porject).
 
 ---
 
